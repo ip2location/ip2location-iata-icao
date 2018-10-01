@@ -1,4 +1,4 @@
-"country_code","region_name","aita","icao","airport","latitude","longitude"
+"country_code","region_name","iata","icao","airport","latitude","longitude"
 "AE","Abu Zaby","AAN","OMAL","Al Ain International Airport","24.26169968","55.60919952"
 "AE","Abu Zaby","AUH","OMAA","Abu Dhabi International Airport","24.43300056","54.65110016"
 "AE","Abu Zaby","AYM","","Yas Island Seaplane Base","24.46682","54.6102"
