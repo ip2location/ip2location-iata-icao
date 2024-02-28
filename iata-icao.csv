@@ -1,3 +1,4 @@
+"country_code","region_name","iata","icao","airport","latitude","longitude"
 "AE","Abu Zaby","AAN","OMAL","Al Ain International Airport","24.2617","55.6092"
 "AE","Abu Zaby","AUH","OMAA","Abu Dhabi International Airport","24.433","54.6511"
 "AE","Abu Zaby","AYM","","Yas Island Seaplane Base","24.467","54.6103"
@@ -8965,4 +8966,3 @@
 "ZW","Matabeleland North","VFA","FVFA","Victoria Falls Airport","-18.0959","25.839"
 "ZW","Matabeleland North","WKI","FVWT","Hwange Town Airport","-18.363","26.5198"
 "ZW","Midlands","GWE","FVTL","Thornhill Air Base","-19.4364","29.8619"
-"country_code","region_name","iata","icao","airport","latitude","longitude"
