@@ -1,4 +1,3 @@
-"country_code","region_name","iata","icao","airport","latitude","longitude"
 "AE","Abu Zaby","AAN","OMAL","Al Ain International Airport","24.2617","55.6092"
 "AE","Abu Zaby","AUH","OMAA","Abu Dhabi International Airport","24.433","54.6511"
 "AE","Abu Zaby","AYM","","Yas Island Seaplane Base","24.467","54.6103"
@@ -8302,6 +8301,7 @@
 "US","Texas","AMA","KAMA","Rick Husband Amarillo International Airport","35.2194","-101.706"
 "US","Texas","ASL","KASL","Harrison County Airport","32.5205","-94.3078"
 "US","Texas","AUS","KAUS","Austin-Bergstrom International Airport","30.1945","-97.6699"
+"US","Texas","","KBAZ","New Braunfels National Airport","29.7030","-98.0411"
 "US","Texas","BBC","KBYY","Bay City Municipal Airport","28.9733","-95.8635"
 "US","Texas","BBD","KBBD","Curtis Field","31.1793","-99.3239"
 "US","Texas","BGD","KBGD","Hutchinson County Airport","35.7009","-101.394"
