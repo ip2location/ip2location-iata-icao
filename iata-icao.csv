@@ -2577,7 +2577,7 @@
 "DE","Berlin","TXL","EDDT","Berlin Tegel Airport","52.5597","13.2877"
 "DE","Brandenburg","BER","EDDB","Berlin Brandenburg Airport","52.3514","13.4939"
 "DE","Brandenburg","CBU","EDCD","Cottbus-Drewitz Airport","51.8894","14.5319"
-"DE","Brandenburg","QPK","EDAY","Strausberg","52.5799","13.9156"
+"DE","Brandenburg","","EDAY","Strausberg","52.5799","13.9156"
 "DE","Bremen","BRE","EDDW","Bremen Airport","53.0475","8.78667"
 "DE","Bremen","BRV","EDWB","Bremerhaven Airport","53.5069","8.57278"
 "DE","Hamburg","HAM","EDDH","Hamburg Airport","53.6304","9.98823"
