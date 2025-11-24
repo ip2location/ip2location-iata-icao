@@ -17,8 +17,16 @@ Below are the fields supported in the IATA/ICAO List.
 
 ## License
 The IATA/ICAO list data is licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). It is free for personal or commercial use with attribution required by mentioning the use of this data as follows,
-**This site or product includes IATA/ICAO List data available from <a href="https://www.ip2location.com">http://www.ip2location.com</a>.**
+> **This site or product includes IATA/ICAO List data available from [https://github.com/ip2location/ip2location-iata-icao](https://github.com/ip2location/ip2location-iata-icao).**
 
 IATA is a registered trademark of International Air Transport Association.   
 ICAO is a registered trademark of International Civil Aviation Organization.   
 All other product names mentioned on this repository may be trademarks or registered trademarks of their respective companies.
+
+## ⚠️ Data Disclaimer: Use At Your Own Risk
+
+The dataset provided in this repository is **crowdsourced** and maintained by contributions from the community.
+
+While we strive for accuracy, [IP2Location](https://www.ip2location.com) and its contributors cannot guarantee the correctness, completeness, or timeliness of all data entries.
+
+**By using this data and the associated code, you expressly acknowledge and agree that you do so at your sole risk, and the data is provided "as is."**
