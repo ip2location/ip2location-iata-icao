@@ -51,6 +51,7 @@
 "AG","Barbuda","BBQ","TAPH","Barbuda Codrington Airport","17.6358","-61.8286"
 "AG","Saint George","ANU","TAPA","V. C. Bird International Airport","17.1367","-61.7927"
 "AI","Anguilla","AXA","TQPF","Clayton J. Lloyd International Airport","18.2048","-63.0551"
+"AL","Tirana","TIA","LATI","Tirana International Airport","41.4147","19.7206"
 "AM","Erevan","EVN","UDYZ","Zvartnots International Airport","40.1473","44.3959"
 "AM","Sirak","LWN","UDSG","Gyumri Shirak Airport","40.7504","43.8593"
 "AO","Bengo","AZZ","FNAM","Ambriz Airport","-7.86222","13.1161"
@@ -3989,7 +3990,6 @@
 "IR","Azarbayjan-e Gharbi","IMQ","OITU","Maku International Airport","39.33","44.43"
 "IR","Azarbayjan-e Gharbi","KHY","OITK","Khoy Airport","38.4275","44.9736"
 "IR","Azarbayjan-e Gharbi","OMH","OITR","Urmia Airport","37.6681","45.0687"
-"IR","Azarbayjan-e Gharbi","TIA","LATI","Tirana International Airport","41.4147","19.7206"
 "IR","Azarbayjan-e Sharqi","ACP","OITM","Sahand Airport","37.348","46.1279"
 "IR","Azarbayjan-e Sharqi","TBZ","OITT","Tabriz International Airport","38.1339","46.235"
 "IR","Bushehr","BUZ","OIBB","Bushehr Airport","28.9448","50.8346"
@@ -9159,4 +9159,5 @@
 "ZW","Matabeleland North","VFA","FVFA","Victoria Falls Airport","-18.0959","25.839"
 "ZW","Matabeleland North","WKI","FVWT","Hwange Town Airport","-18.363","26.5198"
 "ZW","Midlands","GWE","FVTL","Thornhill Air Base","-19.4364","29.8619"
+
 
